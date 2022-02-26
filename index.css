@@ -1,0 +1,45 @@
+#highlights {
+	background-image: url("./images/photo.png");
+	background-position: center; 
+  	background-repeat: no-repeat; 
+ 	background-size: cover;
+  	text-decoration-color: black;
+ }
+#cardBody {
+	background-color: black;
+
+}
+#myprojects{
+	background-image: url("./images/gif.gif");
+	background-position: center; 
+  	background-repeat: no-repeat; 
+  	background-size: cover;
+  	text-decoration-color: black;
+}
+
+.body {
+	font-family: "Open Sans", sans-serif;
+
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+}
+.custom-image {
+	padding: 20px;
+	border-radius: 50%;
+}
+#text {
+	color: skyblue;
+	background-color: black;
+}
+#header{
+	color: skyblue;
+}
+
+a:hover {
+	background-color: royalblue;
+}
+#brand {
+	color: skyblue;
+}
